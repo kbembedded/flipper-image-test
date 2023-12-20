@@ -1,4 +1,5 @@
 #include "imagetest_app.h"
+#include "views/display.h"
 
 uint32_t imagetest_exit_confirm_view(void* context) {
     UNUSED(context);
